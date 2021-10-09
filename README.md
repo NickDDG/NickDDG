@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NickDDG
+- 👀 I’m interested in how web development interacts and supports SEO
+- 🌱 I’m currently learning Nuxt.js
+- 📫 How to reach me - nick@digitaldavidg.com
